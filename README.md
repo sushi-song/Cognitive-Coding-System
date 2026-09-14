@@ -41,8 +41,6 @@ npm run dev
 
 To persist the interpreter selection, put its absolute path in a local `.env` file, for example `OPENAI_PYTHON_BIN=C:/your-project/.venv/Scripts/python.exe` on Windows. Do not commit your `.env` or `.venv`. Without this setting the server uses `python` on Windows and `python3` elsewhere.
 
-要永久保存 Python 路径，将实际绝对路径写入本地 `.env` 的 `OPENAI_PYTHON_BIN`。未配置时，Windows 使用 `python`，其他系统使用 `python3`。不要上传 `.env` 或 `.venv`。
-
 If Python reports `No module named 'openai'`, install requirements using the interpreter specified by `OPENAI_PYTHON_BIN`.
 
 若出现 `No module named 'openai'`，请用 `OPENAI_PYTHON_BIN` 指定的同一个 Python 安装 requirements。
