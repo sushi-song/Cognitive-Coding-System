@@ -15,7 +15,7 @@ A bilingual CSCL cognitive coding system for secondary-level cognitive coding ex
 
 ### Python setup / Python 环境配置
 
-The official OpenAI API uses the Python OpenAI SDK with strict JSON Schema. Other OpenAI-compatible providers continue to use the TypeScript HTTP adapter. Install Python 3.10 or later in addition to Node.js (22 LTS recommended). Python does not bypass network restrictions.
+The official OpenAI API uses the Python OpenAI SDK with strict JSON Schema.  Install Python 3.10 or later in addition to Node.js (22 LTS recommended). Python does not bypass network restrictions.
 
 官方 OpenAI 接口使用 Python OpenAI SDK；除 Node.js（建议 22 LTS）外，请安装 Python 3.10 或更新版本。
 
@@ -80,4 +80,4 @@ npm start
 - `src/codebook.ts`: bilingual cognitive codebook and built-in test datasets
 - `tests/`: unit and integration tests
 
-Generated experiment records, local environment files, dependencies, build artifacts, caches, and backups are excluded from version control.
+
