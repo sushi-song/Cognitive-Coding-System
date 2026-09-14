@@ -10,7 +10,6 @@ The original student discussion data are not publicly available due to privacy c
 
 - Node.js 20 or later
 - npm
-- An OpenAI-compatible chat-completions API endpoint and key
 
 ## Run locally / 本地运行
 
