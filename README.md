@@ -2,6 +2,7 @@
 # Cognitive Coding System
 
 A bilingual CSCL cognitive coding system for secondary-level cognitive coding experiments. The system implements **LLM-as-a-Judge Best-of-N Selection**: three independently generated candidates are evaluated by a separate judge model before the final coding result is assembled.
+The original student discussion data are not publicly available due to privacy considerations.But you can use the platform's built-in non-real test dataset.
 
 一个支持中英文切换的 CSCL 讨论帖认知编码系统。系统采用 **LLM-as-a-Judge Best-of-N Selection**：生成模型独立产生三组候选结果，再由独立筛选模型评分并汇总最终编码。
 
