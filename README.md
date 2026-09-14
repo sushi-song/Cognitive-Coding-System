@@ -16,7 +16,7 @@ The original student discussion data are not publicly available due to privacy c
 
 ### Python setup / Python 环境配置
 
-The official OpenAI API uses the Python OpenAI SDK with strict JSON Schema.  Install Python 3.10 or later in addition to Node.js (22 LTS recommended). Python does not bypass network restrictions.
+The official OpenAI API uses the Python OpenAI SDK with strict JSON Schema.  Install Python 3.10 or later in addition to Node.js (22 LTS recommended). 
 
 官方 OpenAI 接口使用 Python OpenAI SDK；除 Node.js（建议 22 LTS）外，请安装 Python 3.10 或更新版本。
 
