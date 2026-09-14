@@ -1,0 +1,6 @@
+{
+  "name": "CSCL讨论帖认知编码实验系统",
+  "description": "一个用于导入讨论帖XML，并依据固定的认知存在Codebook进行多标签认知编码和四象限气泡图可视化的Web实验系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
